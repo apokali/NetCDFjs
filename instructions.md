@@ -100,7 +100,7 @@ Here is an example to fetch data from a sample dataset (EMDNA_1980_mean.nc4, dow
 
 **Warnings:** In the following example, the python script was run under pyserini conda environment with additional netCDF4 package installation. For more detailed guides, please reference https://towardsdatascience.com/read-netcdf-data-with-python-901f7ff61648. Additional `conda install netcdf4` is required.
 
-While for JavaScript, the code was run under base environment as we did not install NetCDF dependencies in pyserini. There coule be a way to achieve this (using package manager). But reproduction is way too complicated.
+While for JavaScript, the code was run under base environment as we did not install NetCDF dependencies in pyserini. There could be a way to achieve this (using package manager). But reproduction is way too complicated.
 
 * In Python (run under pyserini environment with additional netCDF4 package)
 ```py
